@@ -1,0 +1,98 @@
+Time: 0
+Waiting clients: (1,2,3);(3,2,9);(0,7,7);(4,11,9);(2,14,5);
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Time: 1
+Waiting clients: (1,2,3);(3,2,9);(0,7,7);(4,11,9);(2,14,5);
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Time: 2
+Waiting clients: (1,2,3);(3,2,9);(0,7,7);(4,11,9);(2,14,5);
+Queue1: closed
+Queue2: closed
+Queue3: closed
+Time: 3
+Waiting clients: (0,7,7);(4,11,9);(2,14,5);
+Queue1: (1 2 3)
+Queue2: (3 2 9)
+Queue3: closed
+Time: 4
+Waiting clients: (0,7,7);(4,11,9);(2,14,5);
+Queue1: (1 2 3)
+Queue2: (3 2 9)
+Queue3: closed
+Time: 5
+Waiting clients: (0,7,7);(4,11,9);(2,14,5);
+Queue1: (1 2 3)
+Queue2: (3 2 9)
+Queue3: closed
+Time: 6
+Waiting clients: (0,7,7);(4,11,9);(2,14,5);
+Queue1: closed
+Queue2: (3 2 9)
+Queue3: closed
+Time: 7
+Waiting clients: (0,7,7);(4,11,9);(2,14,5);
+Queue1: closed
+Queue2: (3 2 9)
+Queue3: closed
+Time: 8
+Waiting clients: (4,11,9);(2,14,5);
+Queue1: closed
+Queue2: (3 2 9)
+Queue3: (0 7 7)
+Time: 9
+Waiting clients: (4,11,9);(2,14,5);
+Queue1: closed
+Queue2: (3 2 9)
+Queue3: (0 7 7)
+Time: 10
+Waiting clients: (4,11,9);(2,14,5);
+Queue1: closed
+Queue2: (3 2 9)
+Queue3: (0 7 7)
+Time: 11
+Waiting clients: (4,11,9);(2,14,5);
+Queue1: closed
+Queue2: (3 2 9)
+Queue3: (0 7 7)
+Time: 12
+Waiting clients: (2,14,5);
+Queue1: (4 11 9)
+Queue2: closed
+Queue3: (0 7 7)
+Time: 13
+Waiting clients: (2,14,5);
+Queue1: (4 11 9)
+Queue2: closed
+Queue3: (0 7 7)
+Time: 14
+Waiting clients: (2,14,5);
+Queue1: (4 11 9)
+Queue2: closed
+Queue3: (0 7 7)
+Time: 15
+Waiting clients: 
+Queue1: (4 11 9)
+Queue2: closed
+Queue3: (2 14 5)
+Time: 16
+Waiting clients: 
+Queue1: (4 11 9)
+Queue2: closed
+Queue3: (2 14 5)
+Time: 17
+Waiting clients: 
+Queue1: (4 11 9)
+Queue2: closed
+Queue3: (2 14 5)
+Time: 18
+Waiting clients: 
+Queue1: (4 11 9)
+Queue2: closed
+Queue3: (2 14 5)
+The average waiting time is: 6
+The average service time is: 6.6
+Peak hour: 19
